@@ -8,7 +8,7 @@ For Inventory management mechanism
 
 # Framework
 - Php
-- laravel
+- Laravel
 - MySql
 
 ## Requirement
